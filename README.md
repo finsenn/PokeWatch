@@ -102,7 +102,7 @@ Edit the top of `scrape.py`:
 
 | Telegram feed | 
 |---|
-| _(card alert screenshot)_ | 
+| ![Telegram feed](screenshots/telegram-feed.jpeg) | 
 
 ---
 
