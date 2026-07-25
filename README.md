@@ -102,7 +102,7 @@ Edit the top of `scrape.py`:
 
 | Telegram feed | 
 |---|
-| ![Telegram feed](<img src="screenshots/telegram-feed.jpeg" width="300">) | 
+| <img src="screenshots/telegram-feed.jpeg" width="300"> | 
 
 ---
 
