@@ -45,8 +45,8 @@ It drives a real headless browser (Playwright) to load the normal Mercari search
 
 ### 1. Clone and enter the project
 ```bash
-git clone https://github.com/YOUR_USERNAME/kaidowatch.git
-cd kaidowatch
+git clone https://github.com/finsenn/pokewatch.git
+cd pokewatch
 ```
 
 ### 2. Create a virtual environment
@@ -100,9 +100,9 @@ Edit the top of `scrape.py`:
 
 <!-- Add your screenshots here — see the "Screenshots needed" list below -->
 
-| Telegram feed | Terminal running |
-|---|---|
-| _(card alert screenshot)_ | _(terminal screenshot)_ |
+| Telegram feed | 
+|---|
+| _(card alert screenshot)_ | 
 
 ---
 
