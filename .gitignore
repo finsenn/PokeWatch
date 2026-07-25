@@ -1,0 +1,14 @@
+# Secrets — never commit
+.env
+
+# Bot memory
+seen.txt
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
