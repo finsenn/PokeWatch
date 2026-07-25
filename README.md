@@ -1,0 +1,2 @@
+# PokeWatch
+A real-time Japanese Pokémon TCG sourcing bot. Watches Mercari Japan for brand-new card listings and pushes them straight to your phone via Telegram — with the card image, price in yen, collector number, an English translation, and a one-tap price-check link.  Built for resellers who source Japanese singles and need to see new drops the moment they appear instead of endlessly refreshing the app.
